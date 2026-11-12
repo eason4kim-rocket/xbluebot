@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 一起聊聊
-    url: https://github.com/eason4kim-rocket/xbluebot/discussions
-    about: 想法、问题、使用心得，来 Discussions 聊。
+  - name: 💬 加微信聊聊
+    url: https://www.xbluebot.com
+    about: 想法、问题、使用心得，扫官网上的微信二维码一起聊。
   - name: 🌐 官网
     url: https://www.xbluebot.com
     about: 看介绍、短片和下载。

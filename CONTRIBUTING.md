@@ -24,7 +24,7 @@
 
 ### 💡 提需求 / 想法
 
-[开一个需求 Issue](https://github.com/eason4kim-rocket/xbluebot/issues/new?template=feature_request.yml)，或者到 [Discussions](https://github.com/eason4kim-rocket/xbluebot/discussions) 聊。说清楚你想解决的真实场景，比空想一个功能更有用。
+[开一个需求 Issue](https://github.com/eason4kim-rocket/xbluebot/issues/new?template=feature_request.yml)，或者加微信（扫 [官网](https://www.xbluebot.com) 上的二维码）聊。说清楚你想解决的真实场景，比空想一个功能更有用。
 
 ### 📝 提 PR
 
@@ -44,5 +44,5 @@
 
 ## 联系
 
-- 一般问题：[Discussions](https://github.com/eason4kim-rocket/xbluebot/discussions)
+- 一般问题：加微信，扫 [官网](https://www.xbluebot.com) 上的二维码
 - 其他：见 [官网](https://www.xbluebot.com) 的「联系我们」
