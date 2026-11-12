@@ -1,0 +1,26 @@
+name: 💡 提个需求 / 想法
+description: 想让小蓝多会一件事？说说你的场景。
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 你想解决什么
+      description: 说清楚真实场景，比直接描述一个功能更有用。
+      placeholder: 我每周五都要写周报，想让小蓝……
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你设想的样子
+      description: 你希望小蓝怎么做？（可选）
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: 其他
+      description: 参考、截图、任何补充。
+    validations:
+      required: false

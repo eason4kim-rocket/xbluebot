@@ -1,0 +1,58 @@
+name: 🐞 报个 Bug
+description: 小蓝哪里不对劲？告诉我们。
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢反馈！请别在下面贴密码、卡号、证件号等隐私信息。
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: 怎么了
+      description: 你想做什么、它实际怎么了？
+      placeholder: 我让小蓝查携程机票，结果……
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 怎么操作能再次出现这个问题？
+      placeholder: |
+        1. 打开小蓝
+        2. 说「……」
+        3. 看到……
+    validations:
+      required: false
+  - type: input
+    id: version
+    attributes:
+      label: 小蓝版本
+      placeholder: 例如 0.1.14
+    validations:
+      required: false
+  - type: dropdown
+    id: chip
+    attributes:
+      label: 芯片
+      options:
+        - Apple 芯片（M 系列）
+        - Intel
+        - 不确定
+    validations:
+      required: false
+  - type: input
+    id: macos
+    attributes:
+      label: macOS 版本
+      placeholder: 例如 macOS 14.5
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: 截图 / 录屏 / 其他
+      description: 有的话贴这里，最能帮上忙。
+    validations:
+      required: false
