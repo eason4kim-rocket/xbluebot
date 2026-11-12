@@ -55,8 +55,16 @@
 小蓝还在早期，很需要你的反馈：
 
 - 🐞 **报 Bug / 提需求** — 开一个 [Issue](https://github.com/eason4kim-rocket/xbluebot/issues/new/choose)。
-- 💬 **聊想法 / 问问题** — 加微信，扫 [官网](https://www.xbluebot.com) 上的二维码一起聊。
+- 💬 **聊想法 / 问问题** — 扫下方二维码加微信，一起聊。
 - 📝 **改文档 / 做翻译 / 补示例** — 直接提 PR。参与方式见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
+<div align="center">
+
+<img src="assets/wechat-qr.png" width="200" alt="小蓝同学 微信二维码">
+
+<sub>扫码加微信，一起聊</sub>
+
+</div>
 
 产品源码暂不开放，所以这里的 PR 收 **文档、翻译、示例、社区资源** 这类不涉及核心的改动；功能和 Bug 请走 Issue。
 
